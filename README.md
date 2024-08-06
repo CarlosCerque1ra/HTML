@@ -1,8 +1,18 @@
 ## Minha primeira pagina WEBBB!!!!
 * Projetos em HTML👌
 * Estrutura Básica HTML
-* Parágrafos e títuslos
-* Exemplo de Links
+* Parágrafos e títulos
+* Exemplo de Links:
+
+ -Link abre uma nova aba
+  
+ -Link abre na mesma aba
+ 
+ -Link para envio de Email
+ 
+* Inserir imagem usando link
+
+  
   
   
   

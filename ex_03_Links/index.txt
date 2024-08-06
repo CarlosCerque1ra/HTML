@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Exemplo de Links</title>
+	</head>
+	<body>
+		<p>Esse link abre uma nova aba</p>
+		<a href="https://www.Google.com.br"target="_blank">Google</a> 
+		
+		<p>Esse link abre na mesma aba</p>
+		<a href="https://www.Google.com.br"target="_self">Google</a> 
+		
+		<p>Link para envio de Email</p>
+		<p><a href="mailto:carlos.a.senai02@gmail.com">enviar email</a></p>
+
+		<p>Inserir imagem usando link</p>
+		<a href="https://www.google.com.br/"><img src="https://i.pinimg.com/736x/02/ff/bc/02ffbc6ef5bbe5f241c1a22c15732d20.jpg"></a>
+		
+		
+
+	
+		
+	</body>
+</html>

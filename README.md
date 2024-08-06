@@ -4,8 +4,11 @@
 * Parágrafos e títulos
 * Exemplo de Links:
  -Link abre uma nova aba
+  
  -Link abre na mesma aba
+ 
  -Link para envio de Email
+ 
 * Inserir imagem usando link
 
   

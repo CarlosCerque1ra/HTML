@@ -3,6 +3,7 @@
 * Estrutura Básica HTML
 * Parágrafos e títulos
 * Exemplo de Links:
+* 
  -Link abre uma nova aba
   
  -Link abre na mesma aba

@@ -11,7 +11,7 @@
  -Link para envio de Email
  
 * Inserir imagem usando link
-* Inserir imagem local(Salva na maquina)
+* Inserir imagem local (Salva na maquina)
 
   
   

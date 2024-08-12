@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>JURASSIC PARK 1</title>
+	</head>
+	<body>
+		<h1>Jurassic Park 1</h1>
+		<a href="https://www.google.com.br/"><img src="https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1			_.jpg"width="300"height="500"></a>	
+
+	<h2>Ano de produção: 1993.</h2>
+	<h2>Dirigido por: Steven Spielberg.</h2>
+	<h2>Duração: Aproximadamente 127 minutos.</h2>
+	<h2>Classificação: PG-13 (não recomendado para menores de 13 anos).</h2>
+	<h2>Gênero: Ação, Aventura, Ficção Científica.</h2>
+	<h2>País de origem: Estados Unidos.</h2>
+	<h2>Sinopse</h2>
+	<p>Um milionário traz à vida dinossauros extintos há milhares de anos, criando um imenso parque. 
+	<p>Mas os gigantes pré-históricos começam a ameaçar a vida dos visitantes.</p>
+	<a href="https://www.imdb.com/title/tt0107290/"target="_blank">Mais informações:</a>
+
+	
+
+
+	</body>
+</html>

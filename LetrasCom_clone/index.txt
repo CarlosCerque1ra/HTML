@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lamg = "pt-br">
+	<head>
+
+		<!-- Renderiza caracteres especiais corretamente -->
+		<meta charset="UTF-8">
+	
+		<!-- Permite reconhecer quando aberto em tela menor -->
+		<meta name="viewport" content="wigth=device-width, initial-scale=1.0">
+		<title>Semantica</title>
+		<!-- Exemplo de uso do SEO"Search Engine Optimization" técnicas para melhorar o posicionamento nos resultados de busca no Google" -->
+
+		<title>Sinto a Voz Divina - Nanda Sakemi - LETRAS.MUS.BR</title>
+	</head>
+	<body>
+
+		<img src="img/topo.png" alt="topo da pagina">
+		
+		<p style="color:gray; font-size:12px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pagina inicial>>marchas/hinos>>nanda Sakemi>>sinto a voz divina</p>
+	<center>
+		<img src="img/anuncio.png" alt="topo da pagina">
+	</center>
+		<p style="color:red; font-size:35px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img src="img/avatar.png" alt="foto do cantor">
+		<b>Sinto a Voz Divina</b>
+		<p style="color:green; font-size:25px; line-hight:-10px"> <b> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nanda Sakemi</b>
+	</p>
+
+	<p style="font-size:25px; margin-left:280px;">Sinto a voz tão meiga de Cristo o Redentor<br>
+	Que sempre me consola com Seu sublime amor<br>
+	<img src="img/video.png" alt="ilustração do video" align="right"; width="700">
+	A pastos verdejantes sempre me guiará<br>
+	Com Seu cajado santo me apascentará<br></p>
+
+	<p style="font-size:25px; margin-left:280px;">Amigo Seu me chama meu Salvador Jesus<br>
+	O Seu falar sublime dá compreensão e luz<br>
+	Quero aos pés do Mestre continuamente estar<br>
+	Quero nos Seus conselhos sempre me deleitar<br></p>
+
+	<p style="font-size:25px; margin-left:280px;">O meu divino Mestre fala com mansidão<br>
+	E traz à minha alma grande consolação<br>
+	Em todas as angústias, na prova ou na dor<br>
+	Dentro de mim eu sinto a voz do meu Senhor<br></p>
+
+	<p style="font-size:25px; margin-left:280px;">Sinto a voz divina do meu fiel Pastor<br>
+	Que sempre me ensina com infinito amor<br>
+	A Sua face um dia na glória eu verei<br>
+	Na bem aventurança regozijar-me-ei<br></p>
+		
+		
+</body>
+</html>

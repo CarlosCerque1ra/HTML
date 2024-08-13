@@ -15,6 +15,8 @@
 * Primeiro site HTML, com informações de algum filme
 * Copy Letras (musica)
 * Tabelas em HTML
+* Lista ordenada
+* Lista NÂO ordenada
 
   
   

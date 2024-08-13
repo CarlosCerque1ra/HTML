@@ -14,6 +14,7 @@
 * Inserir imagem local (Salva na maquina)
 * Primeiro site HTML, com informações de algum filme
 * Copy Letras (musica)
+* Tabelas em HTML
 
   
   

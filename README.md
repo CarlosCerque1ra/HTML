@@ -19,6 +19,8 @@
 * Lista NÂO ordenada
 * Formulário
 * Lições utilizando os canteúdos acima citados
+* Adição de Videos e Audios
+  
 
   
   

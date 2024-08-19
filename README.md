@@ -17,7 +17,8 @@
 * Tabelas em HTML
 * Lista ordenada
 * Lista NÂO ordenada
-* Formulario
+* Formulário
+* Lições utilizando os canteúdos acima citados
 
   
   
